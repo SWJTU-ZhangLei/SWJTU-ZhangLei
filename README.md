@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ZhangLei
-- 👀 I’m interested in programming in c++ rust java golang python
+- 👀 I’m interested in programming in c++ rust java golang python javascript
 
 <!---
 SWJTU-ZhangLei/SWJTU-ZhangLei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
